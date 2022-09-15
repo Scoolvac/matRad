@@ -9,12 +9,12 @@ List of all matRad developers that contributed code (alphabetical)
 * Louis Charton
 * Eric Christiansen
 * Hubert Gabrys
-* Josefine Handrack
 * Emily Heath
 * Cindy Hermann
 * Noa Homolka
 * Navid Khaledi 
 * Thomas Klinge
+* Josefine Kopp (Handrack)
 * Henning Mescher
 * Lucas-Raphael Müller
 * Ahmad Neishabouri
